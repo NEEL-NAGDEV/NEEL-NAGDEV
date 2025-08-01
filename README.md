@@ -1,12 +1,11 @@
-
 <!-- Profile README for NEEL NAGDEV -->
 
 <h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:000000&height=200&section=header&text=NEEL%20NAGDEV&fontSize=50&fontColor=ffffff&fontAlignY=40" alt="NEEL NAGDEV" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2000&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=NEEL+NAGDEV" alt="Typing SVG" />
 </h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hey+there!+I'm+Neel+%F0%9F%91%8B;1st+Year+B.Tech+CSE+Student;Tech+Enthusiast+%F0%9F%9A%80;Aspiring+Startup+Founder+%F0%9F%92%BC" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hey+there!+I'm+Neel+👋;1st+Year+B.Tech+CSE+Student;Tech+Enthusiast+🚀;Aspiring+Startup+Founder+💼&font=Fira+Code&center=true&width=500&height=45&color=444444" />
 </div>
 
 ---
@@ -19,7 +18,4 @@ Course: B.Tech in Computer Science Engineering
 Year: First Year
 Passion: Building Startups, Exploring Tech, Solving Real-world Problems
 Current Focus: Web Development, DSA & GitHub Projects
-
-
-
 
