@@ -12,10 +12,51 @@
 
 ### 🧑‍💻 About Me
 
-```yaml
-Name: Neel Nagdev
-Course: B.Tech in Computer Science Engineering
-Year: First Year
-Passion: Building Startups, Exploring Tech, Solving Real-world Problems
-Current Focus: Web Development, DSA & GitHub Projects
+- **Name:** Neel Nagdev  
+- **Course:** B.Tech in Computer Science Engineering  
+- **Year:** First Year  
+- **Passion:** Building Startups, Exploring Tech, Solving Real-world Problems  
+- **Current Focus:** Web Development, DSA & GitHub Projects
 
+---
+
+### 🚀 Tech Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,c,github,vscode,figma" />
+</div>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NeelNagdev&show_icons=true&theme=default" width="47%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=NeelNagdev&theme=default" width="47%" />
+</div>
+
+---
+
+### ⚡ Fun Fact
+
+> 💡 *I'm not just writing code... I'm writing my future.*
+
+---
+
+### 📫 Connect With Me
+
+<p align="center">
+  <a href="mailto:nagdevn27@gmail.com"><img src="https://img.shields.io/badge/Gmail-Email-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/neelnagdev"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.instagram.com/neel.nagdev"><img src="https://img.shields.io/badge/Instagram-Follow-orange?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" />
+</p>
+
+---
+
+> 🌟 *Let's build something amazing together!*
