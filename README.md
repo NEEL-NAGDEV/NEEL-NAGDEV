@@ -1,31 +1,25 @@
-# 👋 Hi, I'm Neel Nagdev!
 
-I'm a **first-year student** exploring the world of programming and tech. This is where I share my journey, practice projects, and everything I'm learning along the way.
+<!-- Profile README for NEEL NAGDEV -->
 
-## 🌱 What I'm Learning
-- Basics of **Python**, **C/C++**, and **Web Development**
-- Git and GitHub for version control
-- How to build real projects (step by step!)
+<h1 align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:000000&height=200&section=header&text=NEEL%20NAGDEV&fontSize=50&fontColor=ffffff&fontAlignY=40" alt="NEEL NAGDEV" />
+</h1>
 
-## 🛠️ Tools I’m Using
-- `VS Code`
-- `Git & GitHub`
-- `HTML`, `CSS`, a bit of `JavaScript`
-
-## 📁 What You’ll Find Here
-- Mini-projects and code experiments
-- Notes and practice files from my learning
-- Beginner-friendly repositories
-
-## 🎯 Goals for this Year
-- Build at least **5 small projects**
-- Learn the basics of **frontend web development**
-- Collaborate on a beginner-friendly open source repo
-- Keep improving one step at a time 🚀
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hey+there!+I'm+Neel+%F0%9F%91%8B;1st+Year+B.Tech+CSE+Student;Tech+Enthusiast+%F0%9F%9A%80;Aspiring+Startup+Founder+%F0%9F%92%BC" />
+</div>
 
 ---
 
-> *"Every expert was once a beginner."*
+### 🧑‍💻 About Me
 
-Thanks for visiting my GitHub! 🌟  
-Feel free to explore — and maybe even join me on this journey!
+```yaml
+Name: Neel Nagdev
+Course: B.Tech in Computer Science Engineering
+Year: First Year
+Passion: Building Startups, Exploring Tech, Solving Real-world Problems
+Current Focus: Web Development, DSA & GitHub Projects
+
+
+
+
